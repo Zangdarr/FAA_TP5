@@ -13,3 +13,8 @@
                            la matrice de transition
 
 4) Compléter la phrase : Le but de la vie est _______
+
+#Ressource
+Textes de wikipédia FR :
+http://redac.univ-tlse2.fr/corpus/wikipedia.html
+
