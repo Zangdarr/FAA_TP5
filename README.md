@@ -18,3 +18,6 @@
 Textes de wikipédia FR :
 http://redac.univ-tlse2.fr/corpus/wikipedia.html
 
+http://corpora.uni-leipzig.de/download.html
+-> descendre -> valider le captcha -> prendre dans la colonne plaintext wiki-2010-1M
+
